@@ -1,7 +1,13 @@
-### Hi there 👋
+<h1>Hi, I'm Saul! </h1> <h5>Welcome to my GitHub repository, where I showcase a portfolio of my completed projects. Feel free to browse through these projects to gain insights into my skills and experiences in the world of Cybersecurity. </h5>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>Enumeration </b>
+  - [SMB Nmap Scripting](https://github.com/SaulMurillo1/SMBLAB)
+
 
 <!--
-**SaulMurillo1/SaulMurillo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
