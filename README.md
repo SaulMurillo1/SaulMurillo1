@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Enumeration </b>
-  - [SMB Nmap Scripting](https://github.com/SaulMurillo1/SMBLAB)
+  - [SMB Nmap Scripting](https://github.com/SaulMurillo1/SmbNmapScriptingLab)
 
 
 <!--
