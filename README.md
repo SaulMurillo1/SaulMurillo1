@@ -4,6 +4,7 @@
 
 - <b>Enumeration </b>
   - [SMB Nmap Scripting](https://github.com/SaulMurillo1/SmbNmapScriptingLab)
+  - [Utilization of the SMBmap Tool](https://github.com/SaulMurillo1/SMBMapLab)
 
 
 <!--
