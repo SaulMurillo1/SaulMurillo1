@@ -3,9 +3,10 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Enumeration </b>
-  - [SMB Nmap Scripting](https://github.com/SaulMurillo1/SmbNmapScriptingLab)
-  - [Utilization of the SMBmap Tool](https://github.com/SaulMurillo1/SMBMapLab)
-  - [SMB Samba Enumeration](https://github.com/SaulMurillo1/SmbSambaEnumerationLab)
+  - <b>SMB </b>
+    - [SMB Nmap Scripting](https://github.com/SaulMurillo1/SmbNmapScriptingLab)
+    - [Utilization of the SMBmap Tool](https://github.com/SaulMurillo1/SMBMapLab)
+    - [SMB Samba Enumeration](https://github.com/SaulMurillo1/SmbSambaEnumerationLab)
 
 
 <!--
