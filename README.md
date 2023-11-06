@@ -7,6 +7,7 @@
     - [SMB Nmap Scripting](https://github.com/SaulMurillo1/SmbNmapScriptingLab)
     - [Utilization of the SMBmap Tool](https://github.com/SaulMurillo1/SMBMapLab)
     - [SMB Samba Enumeration](https://github.com/SaulMurillo1/SmbSambaEnumerationLab)
+    - [SMB Samba Enumeration Part 2](https://github.com/SaulMurillo1/SmbSambaEnumerationLab2)
 
 
 <!--
