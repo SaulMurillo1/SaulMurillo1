@@ -8,7 +8,9 @@
     - [Utilization of the SMBmap Tool](https://github.com/SaulMurillo1/SMBMapLab)
     - [SMB Samba Enumeration](https://github.com/SaulMurillo1/SmbSambaEnumerationLab)
     - [SMB Samba Enumeration Part 2](https://github.com/SaulMurillo1/SmbSambaEnumerationLab2)
-    - [SMB Dictionary Attack](https://github.com/SaulMurillo1/SmbDictionaryAttackLab)
+    - [SMB Brute-Force/Dictionary Attack](https://github.com/SaulMurillo1/SmbDictionaryAttackLab)
+  - <b>FTP </b>
+    - [FTP Brute-Force/Dictionary Attack](https://github.com/SaulMurillo1/FTP-BruteForceAttackLab)
 
 
 <!--
