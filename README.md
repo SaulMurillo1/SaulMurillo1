@@ -12,7 +12,8 @@
   - <b>FTP </b>
     - [FTP Brute-Force/Dictionary Attack](https://github.com/SaulMurillo1/FTP-BruteForceAttackLab)
   - <b>SSH </b>
-    - [SSH-Reconnaissance](https://github.com/SaulMurillo1/SSH-Reconnaissance)
+    - [SSH Reconnaissance](https://github.com/SaulMurillo1/SSH-Reconnaissance)
+    - [SSH Dictionary Attack](https://github.com/SaulMurillo1/SSH-DictionaryAttackLab)
 
 
 <!--
