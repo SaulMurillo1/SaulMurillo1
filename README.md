@@ -14,6 +14,8 @@
   - <b>SSH </b>
     - [SSH Reconnaissance](https://github.com/SaulMurillo1/SSH-ReconnaissanceLab)
     - [SSH Dictionary Attack](https://github.com/SaulMurillo1/SSH-DictionaryAttackLab)
+  - <b>HTTP </b>
+    - [HTTP Reconnaissance](https://github.com/SaulMurillo1/HTTP-ReconnaissanceLab)
 
 
 <!--
