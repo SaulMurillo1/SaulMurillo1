@@ -2,6 +2,11 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>Documentation </b>
+   - [IT Security Alert Report](https://github.com/SaulMurillo1/IT-Security-Alert-Documentation-Example)
+<br />
+<br />
+  
 - <b>Enumeration </b>
   - <b>SMB </b>
     - [SMB Nmap Scripting](https://github.com/SaulMurillo1/SmbNmapScriptingLab)
